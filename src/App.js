@@ -9,6 +9,7 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>“Muddy water is best cleared by leaving it alone.” – Alan Watts,</p>
                 <p> Just a test page :)</p>
+                <p>I was changed on a feature branch</p>
             </header>
         </div>
     );
